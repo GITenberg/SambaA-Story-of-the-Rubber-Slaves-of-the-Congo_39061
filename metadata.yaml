@@ -23,6 +23,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/39124
     - http://en.wikipedia.org/wiki/Herbert_Strang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39061#SambaA-Story-of-the-Rubber-Slaves-of-the-Congo
 gutenberg_issued: '2012-03-05'
 gutenberg_type: Text
 identifiers:
