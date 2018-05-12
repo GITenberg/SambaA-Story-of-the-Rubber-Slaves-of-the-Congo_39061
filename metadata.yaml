@@ -1,0 +1,41 @@
+_repo: SambaA-Story-of-the-Rubber-Slaves-of-the-Congo_39061
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rainey, W. (William)
+    aliases:
+    - Rainey, William
+    - Rainey, H. W. (H. William)
+    - Rainey, W.
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '9704'
+    url: http://www.gutenberg.org/2009/agents/9704
+covers:
+- cover_type: archival
+  image_path: 39061-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Strang, Herbert
+    gutenberg_agent_id: '5234'
+    url: http://www.gutenberg.org/2009/agents/5234
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/39124
+    - http://en.wikipedia.org/wiki/Herbert_Strang
+description: ''
+gutenberg_issued: '2012-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39061'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Blacks -- Africa -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Indigenous peoples -- Congo (Democratic Republic) -- Juvenile fiction'
+- !lcsh 'Forced labor -- Congo (Democratic Republic) -- Juvenile fiction'
+- !lcsh 'Congo (Democratic Republic) -- Juvenile fiction'
+title: 'Samba: A Story of the Rubber Slaves of the Congo'
+url: http://www.gutenberg.org/ebooks/39061
